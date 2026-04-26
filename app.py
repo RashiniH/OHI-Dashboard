@@ -126,12 +126,10 @@ with tab1:
     #  World Map
     st.subheader(f"Global OHI Scores - {selected_year}")
     st.markdown(
-    "Hover over any country to see its score. "
-
-    "Darker green = healthier ocean"
-    
+    "Hover over any country to see its score.  \n"
+    "Darker green = healthier ocean  \n"
     "Darker red = lower sustainability"
-    )
+     )
 
     fig_map = px.choropleth(
         year_df,
