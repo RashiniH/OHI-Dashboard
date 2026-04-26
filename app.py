@@ -223,17 +223,17 @@ with tab1:
 
     st.divider()
 
-st.subheader("🧠 Key Global Insights")
+    st.subheader("🧠 Key Global Insights")
 
-st.info(
+    st.info(
     "🌍 Countries scoring above 70 generally demonstrate sustainable marine resource management, "
     "while those below 60 may face challenges such as overfishing or pollution."
-)
+    )
 
-st.info(
+    st.info(
     "📊 The global average has remained relatively stable over time, indicating slow but steady progress "
     "towards ocean sustainability."
-)
+    )
 
 # TAB 2 - Country Deep Dive
 with tab2:
