@@ -6,8 +6,6 @@ An interactive data dashboard analysing global ocean sustainability using the **
 
 ##  Project Overview
 
-This project was developed for the **5DATA004C Data Science Project Lifecycle** module.
-
 The dashboard explores global ocean health across **194 countries from 2012 to 2024**, helping users understand trends, compare countries, and identify sustainability patterns.
 
 The project aligns with **UN Sustainable Development Goal 14: Life Below Water**.
