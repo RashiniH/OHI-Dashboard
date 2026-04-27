@@ -1,11 +1,10 @@
-# OHI-Dashboard
 # 🌊 Ocean Health Index Dashboard
 
 An interactive data dashboard analysing global ocean sustainability using the **Ocean Health Index (OHI)** dataset.
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This project was developed for the **5DATA004C Data Science Project Lifecycle** module.
 
@@ -15,7 +14,7 @@ The project aligns with **UN Sustainable Development Goal 14: Life Below Water**
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🌍 **Global Map**  
   Visualises ocean health scores across countries using an interactive choropleth map.
@@ -40,7 +39,7 @@ The project aligns with **UN Sustainable Development Goal 14: Life Below Water**
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python  
 - Pandas  
@@ -50,7 +49,7 @@ The project aligns with **UN Sustainable Development Goal 14: Life Below Water**
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Name:** Ocean Health Index (OHI)  
 - **Source:** World Bank Data360  
