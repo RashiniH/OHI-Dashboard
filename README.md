@@ -59,8 +59,4 @@ The project aligns with **UN Sustainable Development Goal 14: Life Below Water**
 
 ---
 
-## 🎛️ How to Run the Project
 
-1. Clone the repository:
-```bash
-git clone https://github.com/RashiniH/OHI-Dashboard.git
