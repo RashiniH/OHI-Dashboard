@@ -60,6 +60,5 @@ The project aligns with **UN Sustainable Development Goal 14: Life Below Water**
 
 - **Link to Video presentatio** : https://drive.google.com/drive/folders/1zo49Rax0S_ZzNKLqlG696xK4trbpSN1e
 - **Link to Streamlit app** :	https://rashini-ohi-dashboard.streamlit.app/	
-- **Link to GitHub repository** : https://github.com/RashiniH/OHI-Dashboard.git
 
 
